@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando em: Suporte de TI(Tecnico de informatica).
 - 🌱 No momento estou aprendendo: HTML e CSS.
-- 📫 Contate me no email: ericsmithcosta@hotmail.com
+- 📫 Contate me no email: eric.smith.alves1105@gmail.com
 
 <div>
    <a>
