@@ -1,10 +1,5 @@
 ### Ola Meu nome e Eric Smith
 
-- 🔭 Atualmente estou trabalhando em: Suporte de TI(Tecnico de informatica).
+- 🔭 Atualmente estou Desenvolvendo minha habilidade em programação e IA
 - 🌱 No momento estou aprendendo: HTML e CSS.
 - 📫 Contate me no email: eric.smith.alves1105@gmail.com
-
-<div>
-   <a>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SmithARX&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
-</div>
